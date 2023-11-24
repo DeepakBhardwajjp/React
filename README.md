@@ -1,3 +1,3 @@
 # React
 My first Repo
-Author - Deepak Bhardwaj
+Author - Deepak Bhardwaj React
